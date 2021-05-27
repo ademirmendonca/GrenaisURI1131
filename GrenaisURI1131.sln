@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GrenaisURI1131", "GeneraisURI1131\GrenaisURI1131.csproj", "{BDCA1899-46C4-49B0-8A54-1D60D05EEA02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDCA1899-46C4-49B0-8A54-1D60D05EEA02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDCA1899-46C4-49B0-8A54-1D60D05EEA02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDCA1899-46C4-49B0-8A54-1D60D05EEA02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDCA1899-46C4-49B0-8A54-1D60D05EEA02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA39F905-9590-485C-B40B-74302FBB7693}
+	EndGlobalSection
+EndGlobal
